@@ -1,6 +1,6 @@
 pyrofork
 tgcrypto
-pymongo
+pymongo[srv]
 motor
 marshmallow
 requests
