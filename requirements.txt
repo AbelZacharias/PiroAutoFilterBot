@@ -3,6 +3,7 @@ tgcrypto
 pymongo[srv]
 motor
 marshmallow
+umongo
 requests
 bs4
 git+https://github.com/ritheshrkrm/cinemagoer
